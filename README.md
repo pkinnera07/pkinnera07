@@ -36,14 +36,14 @@
 #### 🔹 **IgnitED**  
 > A cloud-based full-stack online learning platform with personalized recommendations, dynamic course enrollment, and automated email notifications.  
 **Tech Stack**: React, Node.js, Express, GraphQL, MongoDB, Gmail SMTP  
-🔗 [Live Site](https://your-live-site.com) | [<img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/>](https://github.com/pkinnera07/Ignited)
+🔗 [Live Site](https://ignit-ed.vercel.app/) | [<img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/>](https://github.com/pkinnera07/Ignited)
 
 ---
 
 #### 🔹 **Game Dimension**  
 > Interactive puzzle game platform with real-time state evaluation and dynamic logic rendering.  
 **Tech Stack**: React  
-🔗 [Live Site](https://your-game-site.com) | [<img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/>](https://github.com/pkinnera07/Game-Dimension)
+🔗 [Live Site](https://game-dimension.netlify.app/) | [<img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/>](https://github.com/pkinnera07/Game-Dimension)
 
 ---
 
